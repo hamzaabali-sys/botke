@@ -1,0 +1,5 @@
+_launcher_dir() returned: WindowsPath('C:/Users/Zemheri/Desktop/Flu-AI/FluAI')
+time: 2026-07-28 23:29:43
+sys.executable: 'C:\\Users\\Zemheri\\Desktop\\Flu-AI\\FluAI\\python.exe'
+os.getcwd(): 'C:\\Users\\Zemheri\\Desktop\\Flu-AI\\FluAI'
+sys.argv[0]: 'C:\\Users\\Zemheri\\Desktop\\Flu-AI\\FluAI\\FluAI.exe'
